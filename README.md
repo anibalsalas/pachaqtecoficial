@@ -2,4 +2,4 @@
 
 
 #### desde el mismo proyecto ########
-![Python](imagenes/python.png)
+![Python](imagenes/python.jpg)

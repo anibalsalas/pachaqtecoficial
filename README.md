@@ -2,4 +2,4 @@
 
 
 #### desde el mismo proyecto ########
-![Python](imagenes/python.jpg)
+![Python](semana1hackaton/imagenes/python.jpg)
